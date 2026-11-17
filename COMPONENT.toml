@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-themes-xfce"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-themes-xfce component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
